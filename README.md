@@ -27,3 +27,11 @@ Access detailed information about each event center, including high-quality imag
 ### 6. Registration for Event Centers
 
 Are you an event center owner? Register your venue on our platform to reach a broader audience. Manage bookings, update information, and grow your business.
+
+### Technologies and Tools
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src ="https://img.shields.io/badge/react-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
